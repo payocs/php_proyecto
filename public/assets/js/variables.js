@@ -1,0 +1,1 @@
+var host_backend = 'http://localhost/softura/capacitaciones/php/rutas/empleados.php?';
